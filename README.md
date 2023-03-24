@@ -1,2 +1,2 @@
-# React-Sepet
-React-Redux-React Hooks kullanılarak ürün,kategori ve sepet yönetiminin yapımı
+# React-Shopping-Cart
+Making product, category and basket management using React-Redux-React Hooks
